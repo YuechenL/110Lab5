@@ -1,1 +1,1 @@
-https://travis-ci.org/YuechenL/CSE110Lab5.svg?branch=master
+https://travis-ci.org/YuechenL/110Lab5.svg?branch=master
